@@ -1,0 +1,6 @@
+npm init react-app@latest my-app // deprecated, use below instead
+
+npx create-next-app@latest my-app
+npx create-remix-app@latest remix-app
+npm run dev
+npx shadcn@latest init
