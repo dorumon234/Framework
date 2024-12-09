@@ -23,7 +23,7 @@ export default function Todo() {
     <div className="min-h-screen flex flex-col justify-center items-center bg-gray-100 dark:bg-gray-900 dark:text-white">
       {/* Navbar */}
       <nav className="w-full py-4 flex items-center justify-between px-6 rounded-sm bg-gray-200 dark:bg-gray-800">
-        <h1 className="text-xl font-bold">Amri</h1>
+        <h1 className="text-xl font-bold">Pradipta</h1>
         <Link href="/" className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-500 transition flex items-center gap-2">
           <Image
             src="/mode-light.svg"
